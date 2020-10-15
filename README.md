@@ -5,5 +5,5 @@ Deaktiviere den Chat auf deinen Server, jedoch kann ein Spieler mit op oder der 
 ```
 # ToDo
 
-[] Einstellbare Config <br/>
+[x] Einstellbare Config <br/>
 [] Einstellbare Permission
