@@ -1,0 +1,7 @@
+name: DeactivatedChat
+main: RadJaguar2005\Main
+api: 3.0.0
+version: 1.0.0
+permissions:
+  enable.chat:
+    default: op
